@@ -1801,7 +1801,7 @@ local function TDWTGWJ_fake_script() -- shutdown.Script
 
 	script.Parent.MouseButton1Down:connect(function()
 		for i, players in pairs(game.Players:GetChildren()) do
-			players:Kick("CK IS BACK...")
+			players:Kick("HZ TEAM HAS RETURNED BITCHES...")
 		end
 	end)
 	
